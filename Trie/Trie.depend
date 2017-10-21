@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508554468 source:e:\algorithm\trie\main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+	<stdlib.h>
+
