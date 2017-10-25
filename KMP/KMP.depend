@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508895378 source:e:\algorithm\kmp\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<winsock.h>
+
