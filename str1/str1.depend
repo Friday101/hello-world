@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1510746872 source:/home/tang/Downloads/CppApplication_1/str1/ac_automaton.c
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<stdlib.h>
+	<time.h>
+	"ac_automaton.h"
+
+1510112268 /home/tang/Downloads/CppApplication_1/str1/ac_automaton.h
+
+1510745770 source:/home/tang/Downloads/CppApplication_1/str1/main.c
+	<time.h>
+	"ac_automaton.h"
+	<stdio.h>
+	<unistd.h>
+
